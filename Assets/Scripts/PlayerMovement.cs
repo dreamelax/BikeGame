@@ -17,7 +17,6 @@ public class PlayerMovement : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-    
         rigidbody2D.AddForce(new Vector2(0.5f,1));
     }
 }
