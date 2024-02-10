@@ -2,7 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-// DOODA
+// DOODAD
 public class GameManager : MonoBehaviour
 {
     // SETTINGS
