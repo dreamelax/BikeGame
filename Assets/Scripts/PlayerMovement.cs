@@ -9,6 +9,8 @@ public class PlayerMovement : MonoBehaviour
     public Rigidbody2D rigidbody2d;
 
     public GameManager gamemanager;
+
+    public float runspeed;
     
 
     // Start is called before the first frame update
@@ -20,6 +22,6 @@ public class PlayerMovement : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-
+        
     }
 }
